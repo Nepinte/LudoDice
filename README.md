@@ -1,1 +1,1 @@
-https://nepinte.github.io/LudoDice/
+ website=https://nepinte.github.io/LudoDice/
